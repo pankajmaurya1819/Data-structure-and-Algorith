@@ -1,0 +1,2 @@
+sort following array using bubble sort
+[1,2,7,-1,9,23];
